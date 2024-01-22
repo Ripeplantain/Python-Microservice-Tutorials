@@ -1,0 +1,16 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+.DS_Store
+.idea/
+.vscode/
+node_modules/
+__pycache__/
+.dockerignore
+.dockerfile
+*.md
+.dbdata

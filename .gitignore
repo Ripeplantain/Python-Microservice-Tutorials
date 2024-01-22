@@ -1,0 +1,66 @@
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+venv/
+
+# Ignore environment configuration
+.env
+
+# Ignore database files
+db.sqlite3
+*.db
+
+# Ignore logs
+*.log
+
+# Ignore local configuration
+instance/
+
+# Ignore generated files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore development-related files
+*.bak
+*.swp
+*.swo
+
+# Ignore Docker-related files
+.docker/
+docker-compose.override.yml
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore editor-specific files
+.vscode/
+
+# Ignore system-specific files
+Thumbs.db
+ehthumbs.db
+
+# Ignore test-related files
+coverage/
+
+# Ignore pycache directories
+__pycache__/
+
+# Ignore miscellaneous files
+*.bak
+*.swp
+*.swo
+*.tmp
+*.tmp.*
+*.sublime-workspace
+
+# Ignore pipenv virtual environment
+Pipfile
+Pipfile.lock
+
+#Ignore  database files
+.dbdata
